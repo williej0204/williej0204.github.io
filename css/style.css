@@ -579,7 +579,7 @@ footer h6 {
 }
 footer .sb-holder {
   position: relative;
-  left: 50%;
+  right: 50%;
   text-align: center;
   float: left;
 }
