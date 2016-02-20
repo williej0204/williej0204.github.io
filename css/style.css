@@ -586,8 +586,8 @@ footer .sb-holder {
 footer #social-bar {
   display: block;
   position: relative;
-  float: right;
-  right: 100%;
+  float: left;
+  right: 50%;
   margin: -7px 5px 0px 5px;
   background: url(../img/social-bg.png) repeat-x;
   height: 46px;
