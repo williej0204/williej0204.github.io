@@ -1,0 +1,16 @@
+body{
+	background-image: url("http://www.digitalartistdaily.com/users/720/thm1024/1348247253_Mt-Ightmor.jpg");
+	background-size:1672px,1px;
+	background-repeat:no-repeat;
+}
+#man{
+	position:relative;
+	left:400px;
+	top:350px;
+	width:300px;
+	height:300px;
+}
+#laser{
+	height:300px;
+	width:300px;
+}

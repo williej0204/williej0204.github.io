@@ -1,0 +1,116 @@
+body {
+
+    background-image: url("http://d2rormqr1qwzpz.cloudfront.net/photos/2012/11/26/41646-serenity.jpg");
+    background-size: cover;
+    font-family: monospace;
+
+}
+
+/*Stuff below governs the start screen*/
+
+.titleContent {
+    margin: 10% auto;
+    text-align: center;
+}
+
+.splashTitle {
+    color: #0B0B61;
+    font-size: 5em;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 5px rgba(27, 25, 25, 0.74);
+    position:relative;
+    top:70px;
+}
+
+.button {
+    color: #08088A;
+    font-size: 5em;
+    text-decoration: none;
+    width:10px;
+    height:20px;
+}
+  a.button:hover {
+    
+    color: #abc;
+  }
+
+
+
+/*Stuff below governs the Explore screen*/
+
+#exploreBody {
+    background-image: url("img/Background2.png");
+
+    font-size: 14px;
+    margin: 30px; white-space:nowrap;
+    overflow: hidden;
+    width: 30em;
+    
+    color: white;   
+}
+
+#blah{
+    
+    width:700px;
+    height: 400px;
+    position:relative;
+    left:650px;
+    top:200px;
+    color: #ee7600;
+
+}
+#pone{  
+    font-size: 20px;
+    position: absolute;
+    color: #ee7600;
+}
+#back{
+    width:700px;
+    height: 400px;
+    position: absolute;
+    margin-top: 510px;
+    margin-left: 120px;
+    color: #ee7600;
+}
+
+#confidential{
+font-size: 20px;
+position:absolute;
+color: #ee7600;
+}
+
+#dexter{
+font-size: 20px;
+position: absolute;
+color: #FFFFFF;
+}
+
+#destiny{
+font-size: 20px;
+position: absolute;
+color: #FFFFFF;
+}
+
+
+#start{
+    width:10px;
+    height:10px;
+    position:relative;
+    top:2000px;
+    
+}
+
+#will{
+   width: 10px;
+    height: 10px;
+    position: absolute;
+    top: 55%;
+    right: 55%;
+}
+    
+}
+
+#the{
+    outline-color:white;
+
+ }
